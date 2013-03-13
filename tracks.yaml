@@ -9,7 +9,7 @@ tracks:
     - git-bloom-generate -y rosdebian --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc}
     devel_branch: null
-    last_version: !!python/unicode '0.4.22'
+    last_version: !!python/unicode '0.4.23'
     name: upstream
     patches: null
     release_inc: '0'
