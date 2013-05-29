@@ -1,0 +1,12 @@
+Source: ros-fuerte-ecto-opencv
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vrabaud@willowgarage.com>
+Build-Depends: debhelper (>= 7.0.50~), libboost1.40-all-dev, python-catkin-pkg, ros-fuerte-catkin, ros-fuerte-ecto, ros-fuerte-opencv-candidate, ros-fuerte-opencv2
+Homepage: http://ecto.willowgarage.com
+Standards-Version: 3.9.2
+
+Package: ros-fuerte-ecto-opencv
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost1.40-all-dev, ros-fuerte-ecto, ros-fuerte-opencv-candidate, ros-fuerte-opencv2
+Description: Ecto bindings for common opencv functionality.
