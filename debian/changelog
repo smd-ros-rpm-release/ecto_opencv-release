@@ -1,0 +1,8 @@
+ros-hydro-ecto-opencv (0.5.0-0precise) precise; urgency=high
+
+  * drop Fuerte support
+  * fix compatibility with Boost until 1.54
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Wed, 18 Dec 2013 21:12:06 +0100
+
+
