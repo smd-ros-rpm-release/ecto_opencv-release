@@ -75,5 +75,5 @@ tracks:
     release_tag: :{version}
     ros_distro: indigo
     vcs_type: git
-    vcs_uri: https://github.com/plasmodic/ecto_image_pipeline.git
+    vcs_uri: https://github.com/plasmodic/ecto_opencv.git
     version: :{auto}
