@@ -1,0 +1,23 @@
+ros-groovy-ecto-opencv (0.5.2-0quantal) quantal; urgency=high
+
+  * rely on opencv_candidate to get the OpenCV dependency
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Sat, 12 Apr 2014 22:00:00 -0000
+
+ros-groovy-ecto-opencv (0.5.1-0quantal) quantal; urgency=high
+
+  * get code to compile on Indigo
+  * fix shadow effect on clusters
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Sat, 12 Apr 2014 22:00:00 -0000
+
+ros-groovy-ecto-opencv (0.5.0-0quantal) quantal; urgency=high
+
+  * drop Fuerte support
+  * fix compatibility with Boost until 1.54
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Wed, 18 Dec 2013 21:12:06 +0100
+
+
