@@ -95,7 +95,7 @@ tracks:
     release_inc: -1
     release_repo_url: null
     release_tag: :{version}
-    ros_distro: groovy
+    ros_distro: jade
     vcs_type: git
     vcs_uri: https://github.com/plasmodic/ecto_opencv.git
     version: :{auto}
