@@ -1,0 +1,43 @@
+ros-hydro-ecto-opencv (0.5.4-0quantal) quantal; urgency=high
+
+  * remove SSE dependency
+    That would not work on ARM as explained in #29 <https://github.com/plasmodic/ecto_opencv/issues/29> plus it is useless
+    now: opencv_candidate deals with it and it uses OpenCV flags
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Fri, 02 Jan 2015 23:00:00 -0000
+
+ros-hydro-ecto-opencv (0.5.3-0quantal) quantal; urgency=high
+
+  * Added FPS scale param
+  * recursive directory creation.
+  * speedup normal display
+  * fix depth cleaner
+  * add a normal sample
+  * Contributors: Daniel Stonier, Vincent Rabaud, kentsommer
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Sat, 26 Jul 2014 22:00:00 -0000
+
+ros-hydro-ecto-opencv (0.5.2-0quantal) quantal; urgency=high
+
+  * rely on opencv_candidate to get the OpenCV dependency
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Sat, 12 Apr 2014 22:00:00 -0000
+
+ros-hydro-ecto-opencv (0.5.1-0quantal) quantal; urgency=high
+
+  * get code to compile on Indigo
+  * fix shadow effect on clusters
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Sat, 12 Apr 2014 22:00:00 -0000
+
+ros-hydro-ecto-opencv (0.5.0-0quantal) quantal; urgency=high
+
+  * drop Fuerte support
+  * fix compatibility with Boost until 1.54
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Wed, 18 Dec 2013 21:12:06 +0100
+
+
