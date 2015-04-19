@@ -1,3 +1,24 @@
+## ecto_opencv (hydro) - 0.5.5-1
+
+The packages in the `ecto_opencv` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --track hydro --rosdistro hydro ecto_opencv` on `Sun, 19 Apr 2015 12:04:50 -0000`
+
+The `ecto_opencv` package was released.
+
+Version of package(s) in repository `ecto_opencv`:
+- upstream repository: https://github.com/plasmodic/ecto_opencv.git
+- release repository: https://github.com/ros-gbp/ecto_opencv-release.git
+- rosdistro version: `0.5.5-0`
+- old version: `0.5.5-0`
+- new version: `0.5.5-1`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## ecto_opencv (jade) - 0.5.5-0
 
 The packages in the `ecto_opencv` repository were released into the `jade` distro by running `/usr/bin/bloom-release --track jade --rosdistro jade ecto_opencv` on `Sun, 29 Mar 2015 13:33:23 -0000`
